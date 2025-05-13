@@ -47,7 +47,7 @@ XxPayPro是一套开箱即用、适合拿来直接运营的聚合支付系统。
 
 
 
-### 如需要最新完整商业版本请联系 飞机(Telegram)：[@am_0109](https://t.me/am_0109)
+### 如需要最新完整商业版本请联系 飞机(Telegram)：[@am_0109](https://t.me/+uGqGk1vwMFIxZDg1)
 
 
 
