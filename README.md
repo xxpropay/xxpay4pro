@@ -5,9 +5,9 @@
 # 在线体验
 
 
-### XXPayPro版本演示地址：
+### PayPro版本演示地址：
 
-运营端：[https://mgr.xxpaypro.com](https://mgr.xxpaypro.com) 账号:xxpaymgr 登录密码：111111abc 
+运营端：[https://mgr.xxpaypro.com](https://mgr.xxpaypro.com) 账号:xxpaymgr 登录密码：111111abc
 
 代理端：[https://agent.xxpaypro.com](https://agent.xxpaypro.com) 账号：test001 登录密码：a123123123 支付密码：a123123123
 
@@ -15,22 +15,7 @@
 
 测试账号密码会定期更改，如不对请联系客服发新的账号密码
 
-### 开发文档
-[https://www.xxpaypro.com](https://www.xxpaypro.com) 
-
-### XXPayPlus版本演示地址：
-
-运营端：[https://mgr.xxpayplus.com](https://mgr.xxpayplus.com) 帐号：jeepay 登录密码：jeepay123
-
-代理端：[https://agent.xxpayplus.com](https://agent.xxpayplus.com) 帐号：agenttest 登录密码：agent123123
-
-商户端：[https://mch.xxpayplus.com](https://mch.xxpayplus.com) 帐号：mchtest 登录密码：mch123123
-
-
-系统采用JAVA语言开发，会java的技术人员可以自行二次开发
-
-
-XxPayPro是一套开箱即用、适合拿来直接运营的聚合支付系统。系统适合有技术团队的企业购买，我司可提供程序源码、技术文档和售后技术支持服务。
+系统采用JAVA语言开发，会java的技术人员可以自行二次开发,是一套开箱即用、适合拿来直接运营的聚合支付系统。系统适合有技术团队的企业购买，我司可提供程序源码、技术文档和售后技术支持服务。
 
 程序源码和文档包括哪些？
 源码包括：所有Java服务端源码和Layui前端源码，可二次开发，想怎么改就怎么改，So Easy !
@@ -52,7 +37,7 @@ XxPayPro是一套开箱即用、适合拿来直接运营的聚合支付系统。
 
 
 # 系统描述
-xxpay4pro为xxpay pro版，使用spring boot + dubbo架构开发。包括运营平台、代理商系统、商户系统、支付系统，结算系统、对账系统等。
+四方支付系统使用spring boot + dubbo架构开发。包括运营平台、代理商系统、商户系统、支付系统，结算系统、对账系统等。
 
 # 模块说明
 xxpay-service 所有核心业务方法封装，供其他模块引用后调用
