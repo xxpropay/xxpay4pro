@@ -32,7 +32,7 @@
 
 
 
-### 如需要最新完整商业版本请联系 飞机(Telegram)：[@am_0109](https://t.me/+uGqGk1vwMFIxZDg1)
+### 如需要最新完整商业版本请联系 飞机(Telegram)：[@am_0109](https://t.me/juuhepay)
 
 
 
